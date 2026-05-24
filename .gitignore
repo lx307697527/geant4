@@ -3,9 +3,15 @@ build/
 install/
 geant4-portable/
 examples/build/
+examples/basic/B1/build/
+examples/basic/B2/B2a/build/
 
 # Build scripts
 *.bat
+
+# Downloaded data (partial)
+geometries/
+._*
 
 # Python
 .venv/
